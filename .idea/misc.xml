@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/saraw/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1785" />
         <entry key="..\:/Users/saraw/AndroidStudioProjects/Test/app/src/main/res/drawable/splash_screen.xml" value="0.1785" />
         <entry key="..\:/Users/saraw/AndroidStudioProjects/Test/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/saraw/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_about.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/saraw/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_maps.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/saraw/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_news.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/saraw/AndroidStudioProjects/Test/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17135416666666667" />
       </map>
     </option>
   </component>
